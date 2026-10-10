@@ -1,3 +1,7 @@
+> **This repo has moved into the verse.** Development continues at
+> [ceedot-rock/CuNIverse](https://github.com/ceedot-rock/CuNIverse), in folder exactness/.
+> This copy is archived and read-only - history preserved, nothing lost.
+
 # CuNi Exactness Skill — Review Note
 
 ## What it does
